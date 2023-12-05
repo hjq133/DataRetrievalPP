@@ -1,4 +1,8 @@
 # 数据处理流程
+
+![Image text](https://github.com/hjq133/DataRetrievalPP/blob/main/img/pp.png)
+
+
 数据处理流程总共包含多个步骤, step0为data-jucier官方code
 这里的readme以英文为例，中文可以使用相同的流程进行处理
 
